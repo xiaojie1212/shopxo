@@ -119,7 +119,7 @@
     </div>
 </div>
 
-<!-- 主内容 -->
+<!-- 主内容 ddd-->
 <div class="home-floor">
     <!-- 楼层 -->
     {{if !empty($goods_floor_list)}}
@@ -152,7 +152,7 @@
                     <div class="am-g am-g-fixed flood" {{if !empty($floor['bg_color'])}}style="background-color:{{$floor.bg_color}};"{{else /}}style="background-color:#eaeaea;"{{/if}}>
                         <div class="am-u-sm-5 am-u-md-4 text-one list" >
                             <div class="word">
-                                {{if !empty($floor['items'])}}
+                                <!--{{if !empty($floor['items'])}}
                                     {{foreach $floor.items as $category_key=>$category}}
                                         {{if $category_key lt 6 and isset($category['is_home_recommended']) and $category['is_home_recommended'] eq 1}}
                                             <a href="{{:MyUrl('index/search/index', ['category_id'=>$category['id']])}}" class="outer" target="_blank">
@@ -162,9 +162,9 @@
                                             </a>
                                         {{/if}}
                                     {{/foreach}}
-                                {{/if}}           
+                                {{/if}}-->
                             </div>
-                            <a href="{{:MyUrl('index/search/index', ['category_id'=>$floor['id']])}}" target="_blank">
+                            <!--<a href="{{:MyUrl('index/search/index', ['category_id'=>$floor['id']])}}" target="_blank">-->
                                 <div class="outer-con">
                                     <div class="describe">{{$floor.describe}}</div>
                                 </div>

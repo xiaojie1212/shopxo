@@ -1,14 +1,14 @@
 <!-- 商品分类  -->
 <div id="goods-category" class="am-container" data-controller-name="{{$controller_name}}">
-    <div class="goods-category-s">
-        <a href="{{:MyUrl('index/category/index')}}">
+   <!-- <div class="goods-category-s">
+        &lt;!&ndash;<a href="{{:MyUrl('index/category/index')}}">
             <div class="goods-category-title">
                 <span class="all-goods">全部分类</span>
             </div>
-        </a>
+        </a>&ndash;&gt;
         <div class="category-content" {{if isset($controller_name) and $controller_name neq 'index'}}style="display:none;"{{/if}}>
             <div class="category">
-                <ul class="category-list" id="js_climit_li">
+                &lt;!&ndash;<ul class="category-list" id="js_climit_li">
                     {{if !empty($goods_category_list) and is_array($goods_category_list)}}
                         {{foreach $goods_category_list as $v}}
                             <li class="appliance js_toggle relative first">
@@ -54,8 +54,8 @@
                             </li>
                         {{/foreach}}
                     {{/if}}
-                </ul>
+                </ul>&ndash;&gt;
             </div>
-        </div>
+        </div>-->
     </div>
 </div>
