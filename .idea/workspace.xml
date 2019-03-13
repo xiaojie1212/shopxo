@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c223d8fa-2598-4e7e-bf6d-7318db49fb59" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/default/public/header_top_nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/default/public/header_top_nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/default/public/nav_search.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/default/public/nav_search.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/application/index/view/default/search/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/default/search/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/plugins/view/commononlineservice/index/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/plugins/view/commononlineservice/index/content.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/plugins/view/commonrightnavigation/index/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/plugins/view/commonrightnavigation/index/content.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/plugins/view/commonrightnavigation/index/content.html">
+        <entry file="file://$PROJECT_DIR$/application/index/view/default/search/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="116" column="3" selection-start-line="116" selection-start-column="3" selection-end-line="116" selection-end-column="3" />
+            <state relative-caret-position="475">
+              <caret line="61" column="25" selection-start-line="47" selection-start-column="20" selection-end-line="61" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -54,7 +49,6 @@
         <option value="$PROJECT_DIR$/application/admin/view/default/admin/index.html" />
         <option value="$PROJECT_DIR$/application/index/view/default/public/home_banner.html" />
         <option value="$PROJECT_DIR$/config/app.php" />
-        <option value="$PROJECT_DIR$/application/index/view/default/search/index.html" />
         <option value="$PROJECT_DIR$/application/index/view/default/public/header_top_nav.html" />
         <option value="$PROJECT_DIR$/application/index/view/default/public/nav_search.html" />
         <option value="$PROJECT_DIR$/application/index/view/default/public/nav.html" />
@@ -62,6 +56,7 @@
         <option value="$PROJECT_DIR$/runtime/temp/c480f70122ccbccbd7cf6060ae6ca3b6.php" />
         <option value="$PROJECT_DIR$/application/plugins/view/commononlineservice/index/content.html" />
         <option value="$PROJECT_DIR$/application/plugins/view/commonrightnavigation/index/content.html" />
+        <option value="$PROJECT_DIR$/application/index/view/default/search/index.html" />
       </list>
     </option>
   </component>
@@ -116,15 +111,6 @@
               <item name="index" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
               <item name="default" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopxo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopxo" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="default" type="462c0819:PsiDirectoryNode" />
               <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -169,12 +155,12 @@
       <updated>1552297914782</updated>
       <workItem from="1552297926226" duration="858000" />
       <workItem from="1552352460360" duration="645000" />
-      <workItem from="1552463852365" duration="2194000" />
+      <workItem from="1552463852365" duration="2596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3697000" />
+    <option name="totallyTimeSpent" value="4099000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -193,7 +179,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32884097" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32839838" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32749325" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -315,13 +301,6 @@
     <entry file="file://$PROJECT_DIR$/application/index/view/default/lib/region_linkage.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/index/view/default/search/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1396">
-          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/index/view/default/public/goods_category.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -359,8 +338,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/plugins/view/commonrightnavigation/index/content.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="116" column="3" selection-start-line="116" selection-start-column="3" selection-end-line="116" selection-end-column="3" />
+        <state relative-caret-position="290">
+          <caret line="125" column="33" lean-forward="true" selection-start-line="125" selection-start-column="33" selection-end-line="125" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index/view/default/search/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="61" column="25" selection-start-line="47" selection-start-column="20" selection-end-line="61" selection-end-column="25" />
         </state>
       </provider>
     </entry>
