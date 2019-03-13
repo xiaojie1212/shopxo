@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c223d8fa-2598-4e7e-bf6d-7318db49fb59" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/application/admin/view/default/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/admin/view/default/admin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/index/view/default/public/home_banner.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/default/public/home_banner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/index/view/default/public/header_top_nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/default/public/header_top_nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/index/view/default/public/nav_search.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/default/public/nav_search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/index/view/default/search/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/index/view/default/search/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/plugins/view/commononlineservice/index/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/plugins/view/commononlineservice/index/content.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/plugins/view/commonrightnavigation/index/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/application/plugins/view/commonrightnavigation/index/content.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,30 +16,34 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/admin/view/default/admin/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/index/view/default/public/home_banner.html">
+        <entry file="file://$PROJECT_DIR$/application/plugins/view/commonrightnavigation/index/content.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
+            <state relative-caret-position="215">
+              <caret line="116" column="3" selection-start-line="116" selection-start-column="3" selection-end-line="116" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;a class=&quot;btn-open&quot; title=&quot;查看在线客服&quot; href=&quot;javascript:void(0);&quot;&gt;展开&lt;/a&gt;</find>
+      <find>class=&quot;commonrightnavigation-right-nav&quot;</find>
+      <find>&lt;a class=&quot;btn-open&quot; title=&quot;查看11在线客服&quot; href=&quot;javascript:void(0);&quot;&gt;展开&lt;/a&gt;</find>
+      <find>class=&quot;float-left&quot;</find>
+      <find>class=&quot;base-nav qrcode-content&quot;</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\object\shopxo\application\index</dir>
+      <dir>E:\object\shopxo</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,6 +53,15 @@
       <list>
         <option value="$PROJECT_DIR$/application/admin/view/default/admin/index.html" />
         <option value="$PROJECT_DIR$/application/index/view/default/public/home_banner.html" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/application/index/view/default/search/index.html" />
+        <option value="$PROJECT_DIR$/application/index/view/default/public/header_top_nav.html" />
+        <option value="$PROJECT_DIR$/application/index/view/default/public/nav_search.html" />
+        <option value="$PROJECT_DIR$/application/index/view/default/public/nav.html" />
+        <option value="$PROJECT_DIR$/runtime/temp/9320185a891e5b613c8fcbee7a627ed6.php" />
+        <option value="$PROJECT_DIR$/runtime/temp/c480f70122ccbccbd7cf6060ae6ca3b6.php" />
+        <option value="$PROJECT_DIR$/application/plugins/view/commononlineservice/index/content.html" />
+        <option value="$PROJECT_DIR$/application/plugins/view/commonrightnavigation/index/content.html" />
       </list>
     </option>
   </component>
@@ -69,12 +87,6 @@
               <item name="shopxo" type="b2602c69:ProjectViewProjectNode" />
               <item name="shopxo" type="462c0819:PsiDirectoryNode" />
               <item name="application" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shopxo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shopxo" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shopxo" type="b2602c69:ProjectViewProjectNode" />
@@ -106,6 +118,20 @@
               <item name="default" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="shopxo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopxo" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="index" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shopxo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shopxo" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -115,6 +141,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -140,36 +167,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552297914782</updated>
-      <workItem from="1552297926226" duration="97000" />
+      <workItem from="1552297926226" duration="858000" />
+      <workItem from="1552352460360" duration="645000" />
+      <workItem from="1552463852365" duration="2194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97000" />
+    <option name="totallyTimeSpent" value="3697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25716332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32884097" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32884097" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32884097" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32839838" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,11 +229,22 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/index/view/default/public/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/admin/view/default/admin/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -212,10 +252,115 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index/view/default/public/header_top_nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1425">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index/view/default/public/nav_search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/application/index/view/default/public/home_banner.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index/view/default/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index/view/default/public/jump_error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-608" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index/view/default/public/jump_success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-608" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index/view/default/public/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="14" column="159" lean-forward="true" selection-start-line="14" selection-start-column="159" selection-end-line="14" selection-end-column="159" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index/view/default/public/not_data.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index/view/default/public/pay_error.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index/view/default/public/tips_error.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index/view/default/public/user_menu.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index/view/default/lib/region_linkage.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index/view/default/search/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1396">
+          <caret line="47" column="20" selection-start-line="47" selection-start-column="20" selection-end-line="47" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index/view/default/public/goods_category.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index/view/default/public/header.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/index/view/default/public/header_nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtime/temp/9320185a891e5b613c8fcbee7a627ed6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="9" column="77" lean-forward="true" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtime/temp/c480f70122ccbccbd7cf6060ae6ca3b6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1975">
+          <caret line="136" column="33" lean-forward="true" selection-start-line="136" selection-start-column="33" selection-end-line="136" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/plugins/view/commononlineservice/index/content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/plugins/view/commonrightnavigation/index/content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="116" column="3" selection-start-line="116" selection-start-column="3" selection-end-line="116" selection-end-column="3" />
         </state>
       </provider>
     </entry>
